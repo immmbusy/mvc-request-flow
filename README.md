@@ -24,3 +24,10 @@ This project demonstrates the MVC request flow in a Jakarta EE 10 web applicatio
 - Expression Language (EL)
 - Maven
 - Tomcat 10.1+
+
+## Results 
+![MVC Form](./images/mvc%20exploded.png "image output of loading the site on localhost:8080/mvc-request-flow/")
+![MVC Form](./images/form%20process.png "image output of returning adult user to result.jsp")
+![MVC Form](./images/form%20process%20minor.png "image output of returning minor user to result.jsp")
+
+---
